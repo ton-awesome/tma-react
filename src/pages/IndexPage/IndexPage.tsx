@@ -21,6 +21,7 @@ export const IndexPage: FC = () => {
           >
             TON Connect Now s
           </Cell>
+          <Cell subtitle="hoao">Ho</Cell>
         </Link>
       </Section>
       <Section
